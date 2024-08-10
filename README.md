@@ -8,6 +8,7 @@ Objectives
 1.	Which coffee has been consumed a lot?
 2.	What effect does the population have on the consumption level of coffee?
 3.	What effect does price have on coffee consumption?
+4.	
 **Findings**
 
 If you plan to start a coffee shop, Coffee **Latte** was the most consumed coffee with  **12,533** and **Americano** the least with **11,890**. 
